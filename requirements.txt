@@ -1,0 +1,4 @@
+pytest>=7.0
+pyvisa>=1.13
+pyvisa-py>=0.6      # pure-python VISA backend (no NI-VISA needed)
+pyusb>=1.0          # USB transport for pyvisa-py
